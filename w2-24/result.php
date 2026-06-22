@@ -64,7 +64,6 @@
         $total = $p_l / 3.785;
         echo "<div class='result'>แกลลอน : ".$total."</div>";
     ?>
-
     <a href="index.php">กลับไปหน้าแรก</a>
 </div>
 
